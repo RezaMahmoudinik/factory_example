@@ -1,0 +1,10 @@
+D:\project\factory_ex\factory_ex\bin\Debug\factory_ex.exe.config
+D:\project\factory_ex\factory_ex\bin\Debug\factory_ex.exe
+D:\project\factory_ex\factory_ex\bin\Debug\factory_ex.pdb
+D:\project\factory_ex\factory_ex\obj\Debug\factory_ex.csprojAssemblyReference.cache
+D:\project\factory_ex\factory_ex\obj\Debug\factory_ex.Form1.resources
+D:\project\factory_ex\factory_ex\obj\Debug\factory_ex.Properties.Resources.resources
+D:\project\factory_ex\factory_ex\obj\Debug\factory_ex.csproj.GenerateResource.cache
+D:\project\factory_ex\factory_ex\obj\Debug\factory_ex.csproj.CoreCompileInputs.cache
+D:\project\factory_ex\factory_ex\obj\Debug\factory_ex.exe
+D:\project\factory_ex\factory_ex\obj\Debug\factory_ex.pdb
